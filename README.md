@@ -3,9 +3,16 @@
 
 ## Installation
 - Environment creation and requirements installation
+
 > conda create -n <NAME-OF-ENV> python=3.10
 
-> pip instal -r requirements.txt
+```pip instal -r requirements.txt```
+
+
+
+## Launching MLFlow
+
+
 
 
 
