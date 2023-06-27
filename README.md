@@ -20,6 +20,8 @@ pip instal -r requirements.txt
 mlflow ui --backend-store-uri sqlite:///mlflow.db
 ```
 
+An empty MLFlow UI will be presented:
+![alt text](https://github.com/d-t-n/mlops-mlflow/tree/main/images/MLFlow.png)
 
 
 
