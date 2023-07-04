@@ -25,5 +25,8 @@ An empty MLFlow UI will be presented:
 ![alt text](images/MLFlow.png)
 
 
+After running the notebook duration-prediction.ipynb, with hyperparameters search and definition of the model that have the top performance, the best model is saved as below:
 
+
+![alt text](images/Model-MLFlow.png)
 
