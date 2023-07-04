@@ -30,3 +30,15 @@ After running the notebook duration-prediction.ipynb, with hyperparameters searc
 
 ![alt text](images/Model-MLFlow.png)
 
+
+#### Logging models with MLFlow:
+- Log model as an artifact:
+
+```
+mlflow.log_artifact(local_path="models/mymodel", artifact_path="models/")
+```
+
+- Log model using the method log_model:
+```
+mlflow.<framework>.log_model(model, artifact_path="models/")
+```
