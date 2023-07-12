@@ -42,3 +42,6 @@ mlflow.log_artifact(local_path="models/mymodel", artifact_path="models/")
 ```
 mlflow.<framework>.log_model(model, artifact_path="models/")
 ```
+
+- ML Model format:
+![alt text](images/MLFLow_model_format)
