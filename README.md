@@ -44,4 +44,4 @@ mlflow.<framework>.log_model(model, artifact_path="models/")
 ```
 
 - ML Model format:
-![alt text](images/MLFLow_model_format)
+![alt text](images/MLFlow_model_format.png)
