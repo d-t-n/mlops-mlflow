@@ -1,5 +1,5 @@
 # MLOps with MLFlow
- Experimenting practical aspects of productionizing ML services — from training and experimenting to model deployment and monitoring with MLFlow
+ Experimenting practical aspects of productionizing ML services — from training and experimenting to model deployment and monitoring with MLFlow. Credits to DataTalksClub.
 
 ## Installation
 - Environment creation and requirements installation
@@ -48,5 +48,15 @@ mlflow.<framework>.log_model(model, artifact_path="models/")
 
 
 ## Model Registry
+
+To add a model it is required to clik on the model link in the Experiment page and clik on the button "Register Model" in the Model Overview page, Artifacts tab.
+
+On top of that there are ways of using the MLFlowClient to interact with the Registry and experiments through an API. Step by step is shown in the file model-registry.ipynb.
+
+![alt text](images/MLFlow-CLient.png)
+
+### - Model Management
+
+![alt text](images/MLFlow-model-mgnt.png)
 
 
