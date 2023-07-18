@@ -60,3 +60,7 @@ On top of that there are ways of using the MLFlowClient to interact with the Reg
 ![alt text](images/MLFlow-model-mgnt.png)
 
 
+# MLFlow in Practice
+
+
+
