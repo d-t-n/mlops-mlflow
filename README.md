@@ -66,6 +66,6 @@ The scenarios for running MLflow in MLFlow_examples show the following cases:
 2 - A cross-functional team with one data scientist working on an ML model
 3 - Multiple data scientists working on multiple ML models
 
-For scenario 3, more information on AWS step by step on [Title](1_experiment_tracking/mlflow_on_aws.md)
+For scenario 3, more information on AWS step by step on [Title](1_experiment_tracking/mlflow_on_aws.md) and at https://www.youtube.com/watch?v=1ykg4YmbFVA&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK&index=15
 
 
