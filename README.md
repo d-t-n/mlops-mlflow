@@ -61,6 +61,9 @@ On top of that there are ways of using the MLFlowClient to interact with the Reg
 
 
 # MLFlow in Practice
-
+The scenarios for running MLflow in MLFlow_examples show the following cases:
+- A single data scientist participating in an ML competition
+- A cross-functional team with one data scientist working on an ML model
+- Multiple data scientists working on multiple ML models
 
 
