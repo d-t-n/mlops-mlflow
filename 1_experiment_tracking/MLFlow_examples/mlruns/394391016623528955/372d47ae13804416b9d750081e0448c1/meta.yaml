@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/daniloneves/Documents/Files/Projects/Git/mlops-mlflow/1_experiment_tracking/MLFlow_examples/mlruns/394391016623528955/372d47ae13804416b9d750081e0448c1/artifacts
+end_time: 1689664424396
+entry_point_name: ''
+experiment_id: '394391016623528955'
+lifecycle_stage: active
+run_id: 372d47ae13804416b9d750081e0448c1
+run_name: omniscient-wolf-922
+run_uuid: 372d47ae13804416b9d750081e0448c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689664420647
+status: 3
+tags: []
+user_id: daniloneves
