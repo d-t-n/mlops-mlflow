@@ -1,4 +1,4 @@
-# MLOps with MLFlow
+# 1. MLOps with MLFlow - Experiment Tracking
  Experimenting practical aspects of productionizing ML services — from training and experimenting to model deployment and monitoring with MLFlow. Credits to DataTalksClub.
 
 ## Installation
@@ -69,4 +69,4 @@ The scenarios for running MLflow in MLFlow_examples show the following cases:
 For scenario 3, more information on AWS step by step on [Title](1_experiment_tracking/mlflow_on_aws.md) and at https://www.youtube.com/watch?v=1ykg4YmbFVA&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK&index=15
 
 
-# MLOps Workflow
+# 2. MLOps Workflow
